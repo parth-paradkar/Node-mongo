@@ -34,4 +34,5 @@ To build for production, run build:
 ```
 $ npm run build
 ```
-
+---
+Tutorial video: https://www.youtube.com/watch?v=4yqu8YF29cU&t=3881s
